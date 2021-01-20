@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Almacén>
+	<Categoria IdCategoria="Herramientas">
+		<Marca Nombre="Wurt">
+			<Articulo Referencia="01" Descripción="Taladradora"
+					  Proveedor="Sufersa" Precio="50.0€" Fecha_Entrada="20/01/2020"/>
+		</Marca>
+		<Marca Nombre="Bosch" />
+		<Marca Nombre="Still" />
+	</Categoria>
+	<Categoria IdCategoria="Calefacción">
+		<Marca Nombre="Rowenta" />
+		<Marca Nombre="Fujitsu" />
+		<Marca Nombre="Tenco" />
+	</Categoria>
+	<Categoria IdCategoria="Electricidad">
+		<Marca Nombre="Aerlux" />
+		<Marca Nombre="3M" />
+		<Marca Nombre="Apolo" />
+	</Categoria>
+	<Categoria IdCategoria="Tornillería">
+		<Marca Nombre="Bosch" />
+		<Marca Nombre="3M" />
+		<Marca Nombre="Cleveland" />
+	</Categoria>
+</Almacén>
